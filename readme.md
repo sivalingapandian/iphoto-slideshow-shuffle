@@ -10,7 +10,7 @@ pip3 install pillow
 ```
 
 ```shell
-python3 copy-files-with-random-date.py
+python3 ./pyton/copy-files-with-random-date.py
 ```
 
-Find AI [prompt](/prompt.pdf) file to understand how this program evolved
+Find AI [prompt](/ai-prompt/prompt.pdf) file to understand how this program evolved
